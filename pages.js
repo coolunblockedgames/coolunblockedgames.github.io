@@ -1118,7 +1118,7 @@ const pagesData = [
     name: "unfair-mario",
     formatted_Name: "Unfair Mario",
     fileType: "swf",
-    category: ["puzzle", "nintendo"],
+    category: ["puzzle", "nintendo", "platformer"],
     date: "13-01-2024",
     release_Date: "30-12-2010",
     authors: ["GameItNow.com"],
@@ -3153,6 +3153,53 @@ const pagesData = [
     release_Date: "24-02-2004",
     authors: ["BOLL"],
     authorLinks: ["https://www.youtube.com/@BOLL7708"],
+    description: ""
+  },
+
+  //31/03/2026
+
+  {
+    name: "bin-game",
+    formatted_Name: "The Bin Sorting Game",
+    fileType: "html",
+    category: ["school", "recycling", "puzzle", "test"],
+    date: "31-03-2026",
+    release_Date: "31-03-2026",
+    authors: ["Cisco"],
+    authorLinks: [""],
+    description: ""
+  },
+  {
+    name: "impact-of-recycling-game",
+    formatted_Name: "Impact of Recycling Game",
+    fileType: "html",
+    category: ["school", "recycling", "quiz"],
+    date: "31-03-2026",
+    release_Date: "31-03-2026",
+    authors: ["Cisco"],
+    authorLinks: [""],
+    description: ""
+  },
+  {
+    name: "cat-mario",
+    formatted_Name: "Cat Mario",
+    fileType: "swf",
+    category: ["platformer", "nintendo", "puzzle", "Syobon Action"],
+    date: "31-03-2026",
+    release_Date: "02-2007",
+    authors: ["Chiku"],
+    authorLinks: [""],
+    description: ""
+  },
+  {
+    name: "gluey-2",
+    formatted_Name: "Gluey 2",
+    fileType: "swf",
+    category: ["puzzle", "physics", "tetris", "match", "blob", "liquid"],
+    date: "31-03-2026",
+    release_Date: "08-09-2011",
+    authors: ["fizzgear", "francescodandrea"],
+    authorLinks: ["https://fizzgear.newgrounds.com/", "https://francescodandrea.newgrounds.com/"],
     description: ""
   },
 ];
